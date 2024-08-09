@@ -20,19 +20,19 @@ let songs = [
         title: 'M1',
         artist: 'By Mixkit 01',
         song_path:'./music/m1.mp3',
-        img_path: './image/imagem da mulher.png'
+        img_path: './image/IMAGEM_DA_MULHER.png'
     },
     {
         title: 'MM2',
         artist: 'By Mixkit 02',
         song_path: './music/m2.mp3',
-        img_path: './image/imagem de um disco.png'
+        img_path: './image/IMAGEM_DE_UM_DISCO.png'
     },
     {
         title: 'MMM3 ',
         artist: 'By Mixkit 03',
         song_path: './music/m3.mp3',
-        img_path: './image/imagem de um dj.png'
+        img_path: './image/imagem_de_um_dj.png'
     }
 
 ]
